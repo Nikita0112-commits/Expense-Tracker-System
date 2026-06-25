@@ -63,17 +63,3 @@ A Java desktop application designed for managing and tracking expenses and incom
   <img src="assets/images/screenshots/browse-transaction-history-frame.png" alt="Browse transaction frame" width="300" />
   <img src="assets/images/screenshots/generate-report-frame.png" alt="Generate report frame" width="300" />
 </p>
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENCE](LICENCE) file for details. 📝
-
-## 📬 Contact
-For questions, feedback, or support:
-- **Author**: Kacper Górski
-- **LinkedIn**: [Kacper Górski](https://www.linkedin.com/in/kacper-gorski-se)
-- **Instagram**: [@kxcper.gorski](https://www.instagram.com/kxcper.gorski)
-- **X**: [@Kerciuu](https://x.com/Kerciuu)
-- **GitHub**: [Kerciu](https://github.com/Kerciu)
-- **Support**: Email [kacper.gorski.contact@gmail.com](mailto:kacper.gorski.contact@gmail.com)
-
-For issues, please open a GitHub Issue. 🚀
